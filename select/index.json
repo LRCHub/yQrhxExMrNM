@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "花一匁",
+  "base_artist": "ニト。",
+  "createdAt": "2026-02-20T08:49:24.358938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_花一匁_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_花一匁_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/03_花一匁_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/04_花一匁_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/05_花一匁_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/06_花一匁_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/07_花一匁_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花一匁 (Live at Namba Hatch, 2020)",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/08_花一匁_(Live_at_Namba_Hatch,_2020)_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/09_花一匁_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_花一匁_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "花一匁 - Hanaichi Monnme",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_花一匁_-_Hanaichi_Monnme_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "花一匁 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/12_花一匁_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/13_花一匁_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/14_花一匁_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『花一匁』MV (ZUTOMAYO – Hanaichi Monnme)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/15_ずっと真夜中でいいのに。『花一匁』MV_(ZUTOMAYO_–_Hanaichi_Monnme)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "花一匁",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/16_花一匁_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花一匁 (feat. 流水)",
+      "artist": "ニト。",
+      "has_synced": false,
+      "path": "select/pl_01_花一匁_(feat._流水)_ニト。.txt"
+    }
+  ]
+}
